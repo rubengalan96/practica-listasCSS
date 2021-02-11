@@ -1,0 +1,116 @@
+body {
+    background: rgb(185, 185, 185);
+    font-family: sans-serif;
+  }
+  
+  h2 {
+    
+    margin-bottom: 0.5em;
+    padding-top: 1em;
+  }
+ section.primera{
+     height: 120px;
+ } 
+  ul {
+    list-style-type: none;
+  }
+  
+  ul.primera li {
+    text-align: center;
+    float:left;
+    width: 10em;
+    border: 5px dashed #a92fb4d5;
+    background-color: #6fee7a;
+    color: #782880;
+    margin-right: 16px;
+    padding: 8px;
+    font-weight: bold;
+  }
+  
+  ul.segunda {
+    text-align: center;
+  }
+  
+  ul.segunda li {
+    display: inline;
+    border: 2px solid;
+    border-color: white black black white;
+    margin:  8px;
+    padding: 4px 8px;
+    background-color: white;
+  }
+  
+  ul.segunda li:hover {
+    border: white 2px solid;
+    border-color: black white white black;
+    background-color: rgb(185, 185, 185);
+  }
+  
+  ul.tercera {
+    width: 180px;
+    border: black 1px solid;
+    padding: 8px;
+  }
+  
+  ul.tercera li {
+    background-color: white;
+    border: black 1px solid;
+    width: 145px;
+    text-align: center;
+    margin: 8px 0 8px 8px;
+    padding: 8px;
+  }
+  
+  ul.cuarta {
+    text-align: center;
+  }
+  
+  ul.cuarta li {
+    display: inline-block;
+    background-color: white;
+    color: #3489c2;
+    width: 10em;
+    margin: 0;
+    padding: 8px 0;
+    font-weight: bold;
+  }
+  
+  ul.cuarta li.par {
+    background-color: #1d44ad;
+    color: white;
+  }
+  
+  ul.quinta li {
+    
+    margin-right: 2em;
+    display: inline-block;
+
+  }
+  ul.quinta li img{
+    width: 20px;
+    height: 20px;
+  }
+  ul.quinta li img{
+    width: 20px;
+    height: 20px;
+  }
+
+  ul.sexta{
+    text-align: center;
+  }
+  ul.sexta li img{
+    width: 30px;
+    height: 30px;
+
+  }
+  ul.sexta li{
+    display: inline-block;
+    background-color: white;
+    border: black 3px solid;
+    border-radius: 10px;
+    margin-right: 40px;
+    
+    padding: 16px;
+  }
+  
+  
